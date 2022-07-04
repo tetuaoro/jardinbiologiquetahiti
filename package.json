@@ -1,5 +1,5 @@
 {
-  "name": "jardinbio",
+  "name": "jardinbiologiquetahiti",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "next": "12.2.0",
+    "next-sitemap": "^3.1.7",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "schema-dts": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "18.0.1",
