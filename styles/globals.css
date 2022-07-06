@@ -24,12 +24,6 @@ body {
   vertical-align: unset;
 }
 
-@media (min-width: 576px) {
-  .navbar {
-    max-height: 4rem;
-  }
-}
-
 .navbar-toggler,
 .navbar-collapse {
   z-index: 1;
@@ -74,12 +68,6 @@ body {
   margin: 5px auto;
   transition: all 0.3s ease-in-out;
   background-color: var(--bs-light);
-}
-
-@media (min-width: 576px) {
-  .navbar-text {
-    border-left: 1px;
-  }
 }
 
 /* HEADERS END */
